@@ -21,7 +21,7 @@ This package makes it easy to send notifications using [RocketChat](https://rock
 - [Installation](#installation)
 	- [Setting up the RocketChat service](#setting-up-the-rocketchat-service)
 - [Usage](#usage)
-	- [Available Message methods](#available-message-methods)
+	- [Available Message methods](#available-methods)
 - [Changelog](#changelog)
 - [Testing](#testing)
 - [Security](#security)
@@ -35,7 +35,7 @@ This package makes it easy to send notifications using [RocketChat](https://rock
 You can install the package via composer:
 
 ```shell script
-$ composer require laravel-notification-channels/rocket-chat
+$ composer require yottybyte/rocket-chat-laravel-10-integrations
 ```
 
 ### Setting up the RocketChat service
@@ -209,7 +209,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [Anton Komarev]
 - [Nicholas]
 - [atymic]
-- [All Contributors](../../contributors)
 
 ## Change log
 
